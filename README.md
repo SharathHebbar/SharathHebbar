@@ -1,7 +1,5 @@
-### Hi there 👋
 
-
-[SharathHebbar]
+-[SharathHebbar]
 
 - Currently engaged in Pokemon disassembly games
 
