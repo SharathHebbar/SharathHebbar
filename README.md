@@ -2,7 +2,6 @@
 - 👀 I’m interested in Machine Learning and Internet of Things
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Research Works
-- 📫 How to reach me on LinkedIN
 
 <!---
 SharathHebbar/SharathHebbar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
