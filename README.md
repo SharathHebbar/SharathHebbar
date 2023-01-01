@@ -7,7 +7,8 @@ I am a Machine Learning Engineer at <a href="https://quantiphi.com/">Quantiphi A
 - 💞️ I’m looking to collaborate on Research Works
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?Sharath S Hebbar=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SSharathHebbar" alt="Sharath S Hebbar" /></a> </p>
+
 <!---
 SharathHebbar/SharathHebbar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
