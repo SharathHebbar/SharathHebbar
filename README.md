@@ -1,8 +1,8 @@
 # Hi, I’m @SharathHebbar
 
-I am a Machine Learning Engineer at <a href="https://quantiphi.com/">Quantiphi Analytics</a>
+I am a Machine Learning Engineer
 
-- 👀 I’m interested in Machine Learning, Data Science, Artificial Intelligence and Internet of Things
+- 👀 I’m interested in Machine Learning, Data Science, Artificial Intelligence and the Internet of Things
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Research Works
 
