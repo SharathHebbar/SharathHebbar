@@ -6,7 +6,7 @@ I am a Machine Learning Engineer
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Research Works
 
-| Social Media  | Description |
+| Links  | Social Media  |
 | ------------- | ------------- |
 | [Medium](https://medium.com/@sharathhebbar24)    | Medium   |
 | [Portfolio](https://sharathhebbar.github.io/)    | Portfolio |
