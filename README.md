@@ -11,6 +11,10 @@ I am a Machine Learning Engineer
 | [Medium](https://medium.com/@sharathhebbar24)    | Medium   |
 | [Portfolio](https://sharathhebbar.github.io/)    | Portfolio |
 | [Substack](https://sharathshebbar.substack.com/) | Substack  |
+| [LinkedIn](https://www.linkedin.com/in/sharath-s-hebbar-14b541172/) | LinkedIn  |
+| [HuggingFace](https://huggingface.co/Sharathhebbar24) | HuggingFace  |
+| [OSFOSM](https://huggingface.co/spaces/Sharathhebbar24/One-stop-for-Open-source-models) | One stop for open source models  |
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SharathHebbar&label=Profile%20views&color=0e75b6&style=flat" alt="Sharath S Hebbar" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SharathHebbar" alt="Sharath S Hebbar" /></a> </p>
