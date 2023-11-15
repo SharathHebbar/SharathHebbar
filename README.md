@@ -89,6 +89,7 @@ You can click the Preview link to take a look at your changes.
 11. [Word Embedding](https://github.com/SharathHebbar/Transformers/blob/main/Basics/2.%20Word_Embeddings.ipynb)
 12. [Semantic Search](https://github.com/SharathHebbar/Transformers/blob/main/Basics/3.%20Semantic_Search_Index.ipynb)
 13. [Tokenization Positional_Encoding Self Attention](https://github.com/SharathHebbar/Transformers/blob/main/Basics/4.%20Tokenization%2C%20Positional_Encoding%20and%20self_attention.ipynb)
+14. [Similarity Prediction](https://github.com/SharathHebbar/Similarity-Prediction/tree/master/streamlit)
 
 ### Generative AI / LLMs
 
@@ -111,12 +112,17 @@ You can click the Preview link to take a look at your changes.
 ## Mega Projects
 
 1. [OSFOSM](https://github.com/SharathHebbar/one-stop-for-open-source-models)
+2. [SynthEmbed](https://github.com/SharathHebbar/SynthEmbed)
+3. [The Algorithmic Alchemist](https://github.com/SharathHebbar/The-Algorithmic-Alchemist)
+4. [SkillSync](https://github.com/SharathHebbar/Similarity-Prediction/tree/master/web-app/skillsync)
+   
 
 ## Streamlit
 1. [StreamLit Tutorials](https://github.com/SharathHebbar/StreamLit-Tutorials)
 
 ## Django
 1. [PulseSync](https://github.com/SharathHebbar/PulseSync)
+2. [Taskly](https://github.com/SharathHebbar/TODO)
 
 ## React
 1. [Nike](https://github.com/SharathHebbar/Nike-landing-page)
