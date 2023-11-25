@@ -9,7 +9,7 @@ I am a Machine Learning Engineer
 | Links  | Social Media  |
 | ------------- | ------------- |
 | [Medium](https://medium.com/@sharathhebbar24)    | Medium   |
-| [Portfolio](https://sharathhebbar.github.io/)    | Portfolio |
+| [Portfolio](https://www.notion.so/ssh-blogs/Sharath-S-Hebbar-e7a58e16a1154467a74c1f1db1db0569)    | Portfolio |
 | [Substack](https://sharathshebbar.substack.com/) | Substack  |
 | [LinkedIn](https://www.linkedin.com/in/sharath-s-hebbar-14b541172/) | LinkedIn  |
 | [HuggingFace](https://huggingface.co/Sharathhebbar24) | HuggingFace  |
