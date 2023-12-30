@@ -1,4 +1,7 @@
 # Hi, I’m @SharathHebbar I am a Machine Learning Engineer
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SharathHebbar&label=Profile%20views&color=0e75b6&style=flat" alt="Sharath S Hebbar" /> </p>
+
 ![MLE](https://media.licdn.com/dms/image/D5616AQHgVv08mt4AnA/profile-displaybackgroundimage-shrink_350_1400/0/1695984219538?e=1709164800&v=beta&t=4UWdsvV9DMNg0wO42wNZTNVPVfooQCIO2n8JliL6028)
 
 - 👀 I’m interested in Machine Learning, Data Science, Artificial Intelligence, and the Internet of Things
@@ -14,7 +17,7 @@
 | [HuggingFace](https://huggingface.co/Sharathhebbar24) | HuggingFace  |
 | [OSFOSM](https://huggingface.co/spaces/Sharathhebbar24/One-stop-for-Open-source-models) | One stop for open source models  |
 
-<h3 align="left">Languages and Tools:</h3>
+# Language and Tools
 
 <p align="left"> 
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -62,14 +65,7 @@
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
             height="40" /> </a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SharathHebbar&label=Profile%20views&color=0e75b6&style=flat" alt="Sharath S Hebbar" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SharathHebbar" alt="Sharath S Hebbar" /></a> </p>
-
-<!---
-SharathHebbar/SharathHebbar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+# My Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SharathHebbar&" alt="SharathHebbar" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SharathHebbar&show_icons=true&locale=en&layout=compact" alt="SharathHebbar" /></p>
@@ -80,3 +76,12 @@ You can click the Preview link to take a look at your changes.
 # Important Links
 - [List of Projects](https://github.com/SharathHebbar/ML-Project-list)
 - [ML Stack](https://github.com/SharathHebbar/ML-stack)
+
+# My Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SharathHebbar" alt="Sharath S Hebbar" /></a> </p>
+
+<!---
+SharathHebbar/SharathHebbar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
