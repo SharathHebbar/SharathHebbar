@@ -19,7 +19,7 @@
 &nbsp; <a href="https://huggingface.co/Sharathhebbar24" target="_blank" rel="noopener noreferrer"><img src="https://github.com/SharathHebbar/SharathHebbar/blob/master/assets/huggingface.png"  width="50" /></a>
 </p>
 
-
+<!-- 
 | Links  | Social Media  |
 | ------------- | ------------- |
 | [Medium](https://medium.com/@sharathhebbar24)    | Medium   |
@@ -27,7 +27,7 @@
 | [Substack](https://sharathshebbar.substack.com/) | Substack  |
 | [LinkedIn](https://www.linkedin.com/in/sharath-s-hebbar-14b541172/) | LinkedIn  |
 | [HuggingFace](https://huggingface.co/Sharathhebbar24) | HuggingFace  |
-| [OSFOSM](https://huggingface.co/spaces/Sharathhebbar24/One-stop-for-Open-source-models) | One stop for open source models  |
+| [OSFOSM](https://huggingface.co/spaces/Sharathhebbar24/One-stop-for-Open-source-models) | One stop for open source models  | -->
 
 ### Language and Tools
 
