@@ -76,6 +76,8 @@ You can click the Preview link to take a look at your changes.
 
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=SharathHebbar&theme=dark&hide_langs_below%20=%201" />
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SharathHebbar&" alt="SharathHebbar" /></p>
+
 # Important Links
 - [List of Projects](https://github.com/SharathHebbar/ML-Project-list)
 - [ML Stack](https://github.com/SharathHebbar/ML-stack)
