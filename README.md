@@ -13,7 +13,10 @@
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/sharath-s-hebbar-14b541172/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:sharathshebbar@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-&nbsp; <a href="https://medium.com/@sharathhebbar24" target="_blank" rel="noopener noreferrer"><img src="https://icons8.com/icon/XVNvUWCvvlD9/medium.png"  width="50" /></a>
+&nbsp; <a href="https://medium.com/@sharathhebbar24" target="_blank" rel="noopener noreferrer"><img src="https://icons8.com/icon/XVNvUWCvvlD9/medium"  width="50" /></a>
+&nbsp; <a href="https://sharathshebbar.substack.com/" target="_blank" rel="noopener noreferrer"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAclBMVEX/////Zxn/WQD/YQD/8Or/XQD/ZRT/poX/by3/0cH/f0X/aRv/ZhX/bCX/WwD/VwD/hVL/vKT/59//39T/wav/zLr/q4z/tpz/lWv/+PT/2s3/Ywn/dTX/dC//s5X/ej3/m3T/jWD/oX3/6+T/iVj/x7KobfZgAAACXUlEQVR4nO3d204qMRSAYWjpcCpTGEWcKXIQeP9XNCbGiMOhxe62G/7vnmX+C1aYFdROBwAAAAAAAAAAAAAAAAAAAPirN5OCilg4Krrx6QmFFFJIIYUUUkghhRQ+WqEt4rMxC6eTQQLLiIUAAAAAEMKqn0TEwrWSCXQjFj7AFYNCCimkkEIKKaSQQgozKFwKFV9pIxY2wyQiFgIAAACIoZdGxMI3I+IzZcTCNM/4YwoppJBCCimkkEIKKaSQQgoppJBCCimkkEIKKaSQQgoppJBCCimkkEIKH6xQKqXvuVCWq85MybsttGJTf766L+xdFhZiWn29vLc1NwzIvFCXg+bHgKd16f12zLtQyedfI+Zj35WTc6EVLyeGLDxXTr6F1rye/mZo/W58Vk6uhYUYVWfn7PbCfVKehVpNLv/WYLN0XjlZFko1uzrrYNV/W2hFv3aZtiqdVk52hYXZun71vN64rJzMCnW5fvIYWE2vr5ysCrXSc8+Rw8G1lZNToVSLG4Y+y8srJ59Ca96dFkzby8WHjlwKC7Hf3Ty393ph5eRRqMtlc/3lF1Sjsysni0IlD3+ePZyceejIoPDzRhHCTJ78BJC80JrNjQumpe6fejsmLvxxowiht22/HZMW6vLKI4S/9p0jZWH7RhHCvHu8ctIVnr5RhLA4euhIVWjFmRtFCEd3jjSFhRj5PEL42+2/T6spCrUa//u/bPR950hQ6HKjCOGgVZJCa9xuFCGshIxeWAjnG0UI9UbYuIXG60YRQjU1OuKPG/neKEJo+G9IAAAAAAAAAAAAAAAAAPABj2teFzCZ6JwAAAAASUVORK5CYII="  width="50" /></a>
+</p>
+
 
 | Links  | Social Media  |
 | ------------- | ------------- |
