@@ -1,7 +1,11 @@
 # Hi, I’m @SharathHebbar I am a Machine Learning Engineer
 ![MLE](https://media.licdn.com/dms/image/D5616AQHgVv08mt4AnA/profile-displaybackgroundimage-shrink_350_1400/0/1695984219538?e=1709164800&v=beta&t=4UWdsvV9DMNg0wO42wNZTNVPVfooQCIO2n8JliL6028)
 
-<img src="https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt="my banner">
+<p align="center">
+
+<img width="200" height="200" src="https://user-images.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt="my banner">
+
+</p>
 
 - 👀 I’m interested in Machine Learning, Data Science, Artificial Intelligence, and the Internet of Things
 - 🌱 I’m currently learning Machine Learning
