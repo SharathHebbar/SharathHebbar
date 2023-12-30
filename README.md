@@ -46,7 +46,10 @@
             height="40" /> </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> 
-    <a href="https://huggingface.co/Sharathhebbar24" target="_blank" rel="noopener noreferrer"><img src="https://github.com/SharathHebbar/SharathHebbar/blob/master/assets/huggingface.png" alt="gcp" width="40" height="40" /></a>
+    <a href="https://huggingface.co/Sharathhebbar24" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/SharathHebbar/SharathHebbar/blob/master/assets/huggingface.png" alt="huggingface" width="40" height="40" ></a>
+    <a href="https://kubernetes.io/" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="k8s" width="40" height="40" ></a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
             width="40" height="40" /> </a>
@@ -74,9 +77,15 @@
             width="40" height="40" /> </a> 
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
         <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" /> </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40" /> </a>
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
-            height="40" /> </a> </p>
+            height="40" /> </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40"
+            height="40" /> </a>
+    </p>
 
 ### My Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SharathHebbar&" alt="SharathHebbar" /></p>
