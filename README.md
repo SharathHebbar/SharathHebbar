@@ -1,12 +1,6 @@
 # Hi, I’m @SharathHebbar I am a Machine Learning Engineer
 ![MLE](https://media.licdn.com/dms/image/D5616AQHgVv08mt4AnA/profile-displaybackgroundimage-shrink_350_1400/0/1695984219538?e=1709164800&v=beta&t=4UWdsvV9DMNg0wO42wNZTNVPVfooQCIO2n8JliL6028)
 
-<p align="center">
-
-<img width="200" height="200" src="https://user-images.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt="my banner">
-
-</p>
-
 - 👀 I’m interested in Machine Learning, Data Science, Artificial Intelligence, and the Internet of Things
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Research Works
@@ -20,6 +14,53 @@
 | [HuggingFace](https://huggingface.co/Sharathhebbar24) | HuggingFace  |
 | [OSFOSM](https://huggingface.co/spaces/Sharathhebbar24/One-stop-for-Open-source-models) | One stop for open source models  |
 
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left"> 
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+            alt="aws" width="40" height="40" /> </a> 
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+            alt="docker" width="40" height="40" /> </a> 
+    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask"
+            width="40" height="40" /> </a> 
+    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"
+            height="40" /> </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> 
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
+            width="40" height="40" /> </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+            alt="mongodb" width="40" height="40" /> </a> 
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+            alt="mysql" width="40" height="40" /> </a> 
+    <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" /> </a>
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
+            alt="pandas" width="40" height="40" /> </a> 
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+            alt="postgresql" width="40" height="40" /> </a> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+            alt="python" width="40" height="40" /> </a> 
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" /> </a>
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"
+            width="40" height="40" /> </a> 
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" /> </a>
+    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
+            height="40" /> </a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SharathHebbar&label=Profile%20views&color=0e75b6&style=flat" alt="Sharath S Hebbar" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SharathHebbar" alt="Sharath S Hebbar" /></a> </p>
@@ -35,148 +76,6 @@ You can click the Preview link to take a look at your changes.
 
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=SharathHebbar&theme=dark&hide_langs_below%20=%201" />
 
-
-# List of Projects
-
-# Classical ML and ANN Projects
-
-## Supervised
-
-### Classification
-
-1. [Fraud Detection](https://github.com/SharathHebbar/ML-Project-list/tree/master/classical-ml/Fraud%20Detection)
-2. [Customer Churn](https://github.com/SharathHebbar/Customer-Analytics/tree/master/Customer%20Churn)
-3. [Sonar-Rock-vs-mine-prediction](https://github.com/SharathHebbar/Sonar-Rock-vs-mine-prediction)
-4. [Diabetes-prediction](https://github.com/SharathHebbar/Diabetes-prediction)
-5. [Customer-Churn-ANN](https://github.com/SharathHebbar/Customer-Churn-ANN)
-6. [Credit-card-fraud-detection](https://github.com/SharathHebbar/Credit-Card-fraud)
-7. [Intrusion-Detection-using-ML-and-DL-Algorithms](https://github.com/SharathHebbar/Intrusion-Detection-using-ML-and-DL-Algorithms)
-8. [Anomaly-Detection-in-IoT-Sensors-using-Machine-Learning](https://github.com/SharathHebbar/Anomaly-Detection-in-IoT-Sensors-using-Machine-Learning)
-9. [Intrusion-Detection-using-Machine-Learning](https://github.com/SharathHebbar/Intrusion-Detection-using-Machine-Learning)
-10. [Hybrid-machine-learning](https://github.com/SharathHebbar/Hybrid-machine-learning)
-11. [SMS-spam-detection-using-machine-learning](https://github.com/SharathHebbar/SMS-spam-detection-using-machine-learning)
-12. [IoT-Sensors-detection](https://github.com/SharathHebbar/IoT-Sensors-detection)
-
-
-### Regression
-
-1. [Air-pollution-prediction](https://github.com/SharathHebbar/Air-pollution-prediction-)
-2. [Hardwork-pays-off](https://github.com/SharathHebbar/Hardwork-pays-off)
-3. [Weather-Information-of-Smart-Home](https://github.com/SharathHebbar/Weather-Information-of-Smart-Home)
-
-## Unsupervised
-
-### Clustering
-
-1. [Customer-segmentation](https://github.com/SharathHebbar/Customer-segmentation)
-
-### Association
-
-## Other
-
-1. [Random-Forest](https://github.com/SharathHebbar/Random-Forest)
-2. [RFM Analysis](https://github.com/SharathHebbar/Customer-Analytics/tree/master/RFM_analysis)
-
-# Computer Vision Projects
-
-## Image Classification
-
-1. [CNN_Visualization](https://github.com/SharathHebbar/CNN_Visualization)
-2. [Softmax as Intermediate Layer](https://github.com/SharathHebbar/Softmax-as-intermediate-layer-CNN)
-3. [Hparam-tuning](https://github.com/SharathHebbar/Keras_tuner)
-4. [Intel-Image-Classification](https://github.com/SharathHebbar/ML-Project-list/tree/master/computer-vision/image-classification/Intel-Image-Classification)
-5. [X-Ray-Detection](https://github.com/SharathHebbar/X-Ray-Detection)
-6. [Pneumonia-detection](https://github.com/SharathHebbar/Pneumonia-detection/tree/master/Pneumonia-detection)
-7. [Image-classification-using-deep-learning](https://github.com/SharathHebbar/Image-classification-using-deep-learning)
-
-## Image Segmentation
-
-1. [Car Semantic Segmentation](https://github.com/SharathHebbar/ML-Project-list/tree/master/computer-vision/segmentation/car-segmentation)
-2. [Demo Semantic Segmentation](https://github.com/SharathHebbar/ML-Project-list/tree/master/computer-vision/segmentation/demo)
-
-## Object Detection
-
-1. [Face Mask Detection](https://github.com/SharathHebbar/ML-Project-list/tree/master/computer-vision/object-detection/face_mask_detection)
-
-## Image Captioning
-
-## Generative AI
-
-# Natural Language Processing
-
-## NLP using Machine Learning Based Models
-
-1. [Restaurant-Review-Prediction](https://github.com/SharathHebbar/ML-Project-list/tree/master/kaggle-projects/Restaurant-Reviews)
-
-## NLP using Deep Learning Based Models
-
-## NLP using SpaCy
-
-## NLP using Stats Models
-
-## NLP using Transformers and Generative AI (Large Language Models)
-
-1. [Extractive QnA with BERT](https://github.com/SharathHebbar/Transformers/blob/main/Basics/5_Extractive_QnA_using_BERT.ipynb)
-2. [Instruction following using GPT](https://github.com/SharathHebbar/Transformers/blob/main/Basics/6_Instruction_following_using_GPT.ipynb)
-3. [Product Review using T5](https://github.com/SharathHebbar/Transformers/blob/main/Basics/7.%20T5_for_product_reviews.ipynb)
-4. [Decoder Only Model](https://github.com/SharathHebbar/Transformers/blob/main/Decoder/text-generation.ipynb)
-5. [Fill-Mask Encoder Only Model](https://github.com/SharathHebbar/Transformers/blob/main/Encoder/fill-mask.ipynb)
-6. [Sentiment Analysis Encoder Only Model](https://github.com/SharathHebbar/Transformers/blob/main/Encoder/sentiment-analysis.ipynb)
-7. [Encoder-Decoder Model](https://github.com/SharathHebbar/Transformers/blob/main/Encoder-decoder/text2text-generation.ipynb)
-8. [Falcon Fine Tune](https://github.com/SharathHebbar/Falcon-demo-finetune)
-9. [Table-Detection](https://github.com/SharathHebbar/Table-detection-using-Transformers)
-10. [Tokenizer](https://github.com/SharathHebbar/Transformers/blob/main/Basics/1.%20Tokenizer.ipynb)
-11. [Word Embedding](https://github.com/SharathHebbar/Transformers/blob/main/Basics/2.%20Word_Embeddings.ipynb)
-12. [Semantic Search](https://github.com/SharathHebbar/Transformers/blob/main/Basics/3.%20Semantic_Search_Index.ipynb)
-13. [Tokenization Positional_Encoding Self Attention](https://github.com/SharathHebbar/Transformers/blob/main/Basics/4.%20Tokenization%2C%20Positional_Encoding%20and%20self_attention.ipynb)
-14. [Sentiment Analysis using Tensorflow and Transformers](https://github.com/SharathHebbar/HuggingFace-handson/tree/main/Sentiment%20Analysis)
-15. [Chatbot](https://github.com/SharathHebbar/ChatBot-FOSS)
-16. [Langchain-Tutorial](https://github.com/SharathHebbar/Langchain-tutorial)
-17. [Similarity Prediction](https://github.com/SharathHebbar/Similarity-Prediction)
-18. [AI Generated Text](https://github.com/SharathHebbar/AI-Generated-Text)
-
-
-# MLOps
-
-1. [Kubeflow-pipeline](https://github.com/SharathHebbar/Kubeflow-pipeline-iris)
-2. [MLFlow-Tutorials](https://github.com/SharathHebbar/ML-Flow-Tutorials)
-
-# Time Series and Forecasting
-
-1. [Intel-Stock-Prices-Historical-Data](https://github.com/SharathHebbar/Intel-Stock-Prices-Historical-Data)
-
-# Recommendation System
-
-# Concepts
-
-1. [ML](https://github.com/SharathHebbar/ml)
-2. [PyTorch](https://github.com/SharathHebbar/PyTorch-Tutorials)
-3. [Transformers](https://github.com/SharathHebbar/Transformers)
-4. [HuggingFace](https://github.com/SharathHebbar/HuggingFace-handson)
-5. [LLM](https://github.com/SharathHebbar/LLM)
-6. [Customer Analytics](https://github.com/SharathHebbar/Customer-Analytics)
-
-# Articles/Papers
-
-1. [Articles](https://github.com/SharathHebbar/Data-Science-and-ML/tree/main/articles)
-2. [Papers](https://github.com/SharathHebbar/Data-Science-and-ML/tree/main/papers)
-
-# Mega Projects
-
-1. [OSFOSM](https://github.com/SharathHebbar/one-stop-for-open-source-models)
-2. [SynthEmbed](https://github.com/SharathHebbar/SynthEmbed)
-3. [The Algorithmic Alchemist](https://github.com/SharathHebbar/The-Algorithmic-Alchemist)
-4. [SkillSync](https://github.com/SharathHebbar/Similarity-Prediction/tree/master/web-app/skillsync)
-
-# Streamlit
-1. [StreamLit Tutorials](https://github.com/SharathHebbar/StreamLit-Tutorials)
-
-# Django
-1. [PulseSync](https://github.com/SharathHebbar/PulseSync)
-2. [Taskly](https://github.com/SharathHebbar/TODO)
-
-# React
-1. [Nike](https://github.com/SharathHebbar/Nike-landing-page)
-
-# CSS
-1. [TailwindCSS Tutorial](https://github.com/SharathHebbar/Tailwind-CSS-Tutorial)
+# Important Links
+- [List of Projects](https://github.com/SharathHebbar/ML-Project-list)
+- [ML Stack](https://github.com/SharathHebbar/ML-stack)
