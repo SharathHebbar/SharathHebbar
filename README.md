@@ -80,6 +80,9 @@
 # My Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SharathHebbar" alt="Sharath S Hebbar" /></a> </p>
 
+#### **Visitor Count**
+![Visitor Count](https://profile-counter.glitch.me/{SharathHebbar}/count.svg)
+
 <!---
 SharathHebbar/SharathHebbar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
