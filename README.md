@@ -1,6 +1,7 @@
 # Hi, I’m @SharathHebbar
 
 I am a Machine Learning Engineer
+![MLE](https://media.licdn.com/dms/image/D5616AQHgVv08mt4AnA/profile-displaybackgroundimage-shrink_350_1400/0/1695984219538?e=1709164800&v=beta&t=4UWdsvV9DMNg0wO42wNZTNVPVfooQCIO2n8JliL6028)
 
 - 👀 I’m interested in Machine Learning, Data Science, Artificial Intelligence, and the Internet of Things
 - 🌱 I’m currently learning Machine Learning
