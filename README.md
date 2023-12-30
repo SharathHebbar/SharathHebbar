@@ -73,6 +73,9 @@ You can click the Preview link to take a look at your changes.
 
 <img src ="https://github-readme-stats.vercel.app/api?username=SharathHebbar&&show_icons=true&title_color=fffffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SharathHebbar&show_icons=true&locale=en&layout=compact" alt="SharathHebbar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SharathHebbar&show_icons=true&locale=en" alt="SharathHebbar" /></p>
 
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=SharathHebbar&theme=dark&hide_langs_below%20=%201" />
 
