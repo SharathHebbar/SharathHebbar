@@ -15,6 +15,8 @@
 &nbsp; <a href="mailto:sharathshebbar@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 &nbsp; <a href="https://medium.com/@sharathhebbar24" target="_blank" rel="noopener noreferrer"><img src="https://github.com/SharathHebbar/SharathHebbar/blob/master/assets/medium.png"  width="50" /></a>
 &nbsp; <a href="https://sharathshebbar.substack.com/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/SharathHebbar/SharathHebbar/blob/master/assets/substack.png"  width="50" /></a>
+&nbsp; <a href="https://ssh-blogs.notion.site/Sharath-S-Hebbar-e7a58e16a1154467a74c1f1db1db0569?pvs=4" target="_blank" rel="noopener noreferrer"><img src="https://github.com/SharathHebbar/SharathHebbar/blob/master/assets/notion.png"  width="50" /></a>
+&nbsp; <a href="https://huggingface.co/Sharathhebbar24" target="_blank" rel="noopener noreferrer"><img src="https://github.com/SharathHebbar/SharathHebbar/blob/master/assets/huggingface.png"  width="50" /></a>
 </p>
 
 
