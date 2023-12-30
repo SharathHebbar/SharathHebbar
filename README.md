@@ -10,13 +10,13 @@
 ### 🤝🏻 Connect with Me
 
 <p>
-&nbsp; <a href="https://github.com/SharathHebbar" target="_blank" rel="noopener noreferrer"><img src="https://github.com/SharathHebbar/SharathHebbar/blob/master/assets/github.png" width="50" /></a>
-&nbsp; <a href="https://www.linkedin.com/in/sharath-s-hebbar-14b541172/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:sharathshebbar@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-&nbsp; <a href="https://medium.com/@sharathhebbar24" target="_blank" rel="noopener noreferrer"><img src="https://github.com/SharathHebbar/SharathHebbar/blob/master/assets/medium.png"  width="50" /></a>
-&nbsp; <a href="https://sharathshebbar.substack.com/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/SharathHebbar/SharathHebbar/blob/master/assets/substack.png"  width="50" /></a>
-&nbsp; <a href="https://ssh-blogs.notion.site/Sharath-S-Hebbar-e7a58e16a1154467a74c1f1db1db0569?pvs=4" target="_blank" rel="noopener noreferrer"><img src="https://github.com/SharathHebbar/SharathHebbar/blob/master/assets/notion.png"  width="50" /></a>
-&nbsp; <a href="https://huggingface.co/Sharathhebbar24" target="_blank" rel="noopener noreferrer"><img src="https://github.com/SharathHebbar/SharathHebbar/blob/master/assets/huggingface.png"  width="50" /></a>
+&nbsp; <a href="https://github.com/SharathHebbar" target="_blank" rel="noopener noreferrer"><img src="https://github.com/SharathHebbar/SharathHebbar/blob/master/assets/github.png" height="50" width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/sharath-s-hebbar-14b541172/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" height="50" width="50" /></a>
+&nbsp; <a href="mailto:sharathshebbar@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" height="50"  width="50" /></a>
+&nbsp; <a href="https://medium.com/@sharathhebbar24" target="_blank" rel="noopener noreferrer"><img src="https://github.com/SharathHebbar/SharathHebbar/blob/master/assets/medium.png" height="50"  width="50" /></a>
+&nbsp; <a href="https://sharathshebbar.substack.com/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/SharathHebbar/SharathHebbar/blob/master/assets/substack.png" height="50"  width="50" /></a>
+&nbsp; <a href="https://ssh-blogs.notion.site/Sharath-S-Hebbar-e7a58e16a1154467a74c1f1db1db0569?pvs=4" target="_blank" rel="noopener noreferrer"><img src="https://github.com/SharathHebbar/SharathHebbar/blob/master/assets/notion.png" height="50"  width="50" /></a>
+&nbsp; <a href="https://huggingface.co/Sharathhebbar24" target="_blank" rel="noopener noreferrer"><img src="https://github.com/SharathHebbar/SharathHebbar/blob/master/assets/huggingface.png" height="50"  width="50" /></a>
 </p>
 
 <!-- 
@@ -46,6 +46,7 @@
             height="40" /> </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> 
+    <a href="https://huggingface.co/Sharathhebbar24" target="_blank" rel="noopener noreferrer"><img src="https://github.com/SharathHebbar/SharathHebbar/blob/master/assets/huggingface.png" alt="gcp" width="40" height="40" /></a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
             width="40" height="40" /> </a>
