@@ -1,4 +1,4 @@
-# Hi, I’m @SharathHebbar I am a Machine Learning Engineer
+## Hi, I’m @SharathHebbar I am a Machine Learning Engineer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SharathHebbar&label=Profile%20views&color=0e75b6&style=flat" alt="Sharath S Hebbar" /> </p>
 
@@ -17,7 +17,7 @@
 | [HuggingFace](https://huggingface.co/Sharathhebbar24) | HuggingFace  |
 | [OSFOSM](https://huggingface.co/spaces/Sharathhebbar24/One-stop-for-Open-source-models) | One stop for open source models  |
 
-# Language and Tools
+### Language and Tools
 
 <p align="left"> 
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -65,7 +65,7 @@
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
             height="40" /> </a> </p>
 
-# My Stats
+### My Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SharathHebbar&" alt="SharathHebbar" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SharathHebbar&show_icons=true&locale=en&layout=compact" alt="SharathHebbar" /></p>
@@ -73,11 +73,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SharathHebbar&show_icons=true&locale=en" alt="SharathHebbar" /></p>
 
 
-# Important Links
+## Important Links
 - [List of Projects](https://github.com/SharathHebbar/ML-Project-list)
 - [ML Stack](https://github.com/SharathHebbar/ML-stack)
 
-# My Trophies
+### My Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SharathHebbar" alt="Sharath S Hebbar" /></a> </p>
 
 #### **Visitor Count**
