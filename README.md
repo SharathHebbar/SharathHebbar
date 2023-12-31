@@ -91,11 +91,16 @@
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
             alt="postgresql" width="40" height="40" /> </a> 
+    <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"
+            alt="pycharm" width="40" height="40" /> </a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" /> </a> 
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" /> </a>
+    <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40" /> </a>
     <a href="https://react.dev/" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40" /> </a>
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
