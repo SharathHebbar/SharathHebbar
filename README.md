@@ -31,13 +31,28 @@
 
 ### Language and Tools
 
-<p align="left"> 
+<p align="left">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-            alt="aws" width="40" height="40" /> </a> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /> </a>
+    <a href="https://www.anaconda.com/download" target="_blank" rel="noreferrer">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40" /> </a>
+    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40" /> </a>
+    <a href="https://visualstudio.microsoft.com/vs/features/cplusplus/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40" /> </a>
+    <a href="https://visualstudio.microsoft.com/vs/features/cplusplus/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40" /> </a>
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="40" height="40" /> </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-            alt="docker" width="40" height="40" /> </a> 
+            alt="docker" width="40" height="40" /> </a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg"
+            alt="fastapi" width="40" height="40" /> </a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"
+            alt="firebase" width="40" height="40" /> </a>
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask"
             width="40" height="40" /> </a> 
@@ -46,6 +61,10 @@
             height="40" /> </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> 
+    <a href="https://github.com/SharathHebbar" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40" /> </a> 
+    <a href="https://gitlab.com/sharathhebbar" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40" /> </a> 
     <a href="https://huggingface.co/Sharathhebbar24" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/SharathHebbar/SharathHebbar/blob/master/assets/huggingface.png" alt="huggingface" width="40" height="40" ></a>
     <a href="https://kubernetes.io/" target="_blank" rel="noopener noreferrer">
