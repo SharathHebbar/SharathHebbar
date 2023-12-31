@@ -67,6 +67,8 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40" /> </a> 
     <a href="https://huggingface.co/Sharathhebbar24" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/SharathHebbar/SharathHebbar/blob/master/assets/huggingface.png" alt="huggingface" width="40" height="40" ></a>
+    <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40" ></a>
     <a href="https://kubernetes.io/" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="k8s" width="40" height="40" ></a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
@@ -77,7 +79,10 @@
             alt="mongodb" width="40" height="40" /> </a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" /> </a> 
+            alt="mysql" width="40" height="40" /> </a>
+    <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg"
+            alt="numpy" width="40" height="40" /> </a>
     <a href="https://opencv.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" /> </a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
@@ -91,6 +96,8 @@
             alt="python" width="40" height="40" /> </a> 
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" /> </a>
+    <a href="https://react.dev/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40" /> </a>
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"
             width="40" height="40" /> </a> 
