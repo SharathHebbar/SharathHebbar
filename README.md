@@ -156,7 +156,7 @@
 - [ML Stack](https://github.com/SharathHebbar/ML-stack)
 
 ### My Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SharathHebbar" alt="Sharath S Hebbar" /></a> </p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SharathHebbar" alt="Sharath S Hebbar" /></a> </p>
 
 #### **Visitor Count**
 ![Visitor Count](https://profile-counter.glitch.me/{SharathHebbar}/count.svg)
