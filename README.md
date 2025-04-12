@@ -29,7 +29,7 @@
 | [HuggingFace](https://huggingface.co/Sharathhebbar24) | HuggingFace  |
 | [OSFOSM](https://huggingface.co/spaces/Sharathhebbar24/One-stop-for-Open-source-models) | One stop for open source models  | -->
 
-### Language and Tools
+<!-- ### Language and Tools
 
 <p align="left">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -141,7 +141,7 @@
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40"
             height="40" /> </a>
-    </p>
+    </p> -->
 
 ### My Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SharathHebbar&" alt="SharathHebbar" /></p>
