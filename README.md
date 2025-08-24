@@ -143,6 +143,7 @@
             height="40" /> </a>
     </p> -->
 
+<!---
 ### My Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SharathHebbar&" alt="SharathHebbar" /></p>
 
@@ -161,7 +162,6 @@
 #### **Visitor Count**
 ![Visitor Count](https://profile-counter.glitch.me/{SharathHebbar}/count.svg)
 
-<!---
 SharathHebbar/SharathHebbar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
