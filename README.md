@@ -143,7 +143,7 @@
             height="40" /> </a>
     </p> -->
 
-<!---
+
 ### My Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SharathHebbar&" alt="SharathHebbar" /></p>
 
@@ -151,6 +151,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SharathHebbar&show_icons=true&locale=en" alt="SharathHebbar" /></p>
 
+<!---
 
 ## Important Links
 - [List of Projects](https://github.com/SharathHebbar/ML-Project-list)
