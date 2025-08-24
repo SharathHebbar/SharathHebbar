@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SharathHebbar&label=Profile%20views&color=0e75b6&style=flat" alt="Sharath S Hebbar" /> </p>
 
-- 🎉 Hi I am Sharath S Hebbar working as a Data Scientist
+- 🎉 Hi I am Sharath S Hebbar working as a Lead AI Engineer
 - 👀 I’m interested in Machine Learning, Data Science, Artificial Intelligence, and the Internet of Things
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Research Works
