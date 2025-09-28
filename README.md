@@ -7,9 +7,9 @@
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Research Works
 
-### 🤝🏻 Connect with Me
+## 🤝🏻 Connect with Me
 
-##### My Portfolio:  <a href="https://yetanotheraiportfolio.netlify.app/" target="_blank" rel="noopener noreferrer">Portfolio</a>
+### My Portfolio:  <a href="https://yetanotheraiportfolio.netlify.app/" target="_blank" rel="noopener noreferrer">Portfolio</a>
 
 <p>
 &nbsp; <a href="https://github.com/SharathHebbar" target="_blank" rel="noopener noreferrer"><img src="https://github.com/SharathHebbar/SharathHebbar/blob/master/assets/github.png" height="50" width="50" /></a>
@@ -146,7 +146,7 @@
     </p> -->
 
 
-### My Stats
+## My Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SharathHebbar&" alt="SharathHebbar" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SharathHebbar&show_icons=true&locale=en&layout=compact" alt="SharathHebbar" /></p>
