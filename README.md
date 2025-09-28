@@ -9,7 +9,7 @@
 
 ### 🤝🏻 Connect with Me
 
-##### My Portfolio:  <a href="https://yetanotheraiportfolio.netlify.app/" target="_blank" rel="noopener noreferrer">
+##### My Portfolio:  <a href="https://yetanotheraiportfolio.netlify.app/" target="_blank" rel="noopener noreferrer">Portfolio</a>
 
 <p>
 &nbsp; <a href="https://github.com/SharathHebbar" target="_blank" rel="noopener noreferrer"><img src="https://github.com/SharathHebbar/SharathHebbar/blob/master/assets/github.png" height="50" width="50" /></a>
