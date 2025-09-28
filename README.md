@@ -9,6 +9,8 @@
 
 ### 🤝🏻 Connect with Me
 
+##### My Portfolio:  <a href="https://yetanotheraiportfolio.netlify.app/" target="_blank" rel="noopener noreferrer">
+
 <p>
 &nbsp; <a href="https://github.com/SharathHebbar" target="_blank" rel="noopener noreferrer"><img src="https://github.com/SharathHebbar/SharathHebbar/blob/master/assets/github.png" height="50" width="50" /></a>
 &nbsp; <a href="https://www.linkedin.com/in/sharath-s-hebbar-14b541172/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" height="50" width="50" /></a>
